@@ -25,6 +25,8 @@ public class Tela3Activity extends AppCompatActivity {
                 double valor = Double.parseDouble(EditTextValor.getText().toString());
                 double valorCot = Double.parseDouble(EditTextCotacao.getText().toString());
 
+                double Resultado = (valor*valorCot);
+
 
             }
         });
