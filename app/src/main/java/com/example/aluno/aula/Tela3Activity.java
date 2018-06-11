@@ -28,6 +28,7 @@ public class Tela3Activity extends AppCompatActivity {
                 double Resultado = (valor*valorCot);
 
 
+
             }
         });
 
